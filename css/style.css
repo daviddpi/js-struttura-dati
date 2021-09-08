@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/download.jpg);
+    background-repeat: no-repeat;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.elementi-carta{
+    font-size: 1.5rem;
+    color: white;
+}
+
+.abilita-carta{
+    padding: 0 20px;
+}
+
+#main-logo{
+    width: 40%;
+}
