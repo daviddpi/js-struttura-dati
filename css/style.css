@@ -13,7 +13,8 @@ ul{
 }
 
 .abilita-carta{
-    padding: 0 20px;
+    overflow: auto;
+    height: 230px;
 }
 
 #main-logo{
